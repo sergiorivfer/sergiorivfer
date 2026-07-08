@@ -42,10 +42,10 @@ Ingeniero DevOps con +5 años en desarrollo y despliegue de software, actualment
 
 ## Proyectos
 
-### 🥇 Mucho-Store — E-commerce 3D · Pricing Service
-[![CI/CD](https://github.com/WendyKatherine/pricing-service/actions/workflows/deploy.yml/badge.svg)](https://github.com/WendyKatherine/pricing-service/actions)
+### 🥇 Mucho-Store — E-commerce 3D
+[![GitHub](https://img.shields.io/badge/Repo-customization--store-181717?style=flat-square&logo=github)](https://github.com/sergiorivfer/customization-store)
 
-Plataforma de personalización 3D (gorras, camisetas, hoodies) con pasarela de pago. Microservicio de precios extraído con Clean Architecture.
+Plataforma de personalización 3D (gorras, camisetas, hoodies) con Next.js 14, MongoDB Atlas, Stripe y modelador Three.js.
 
 **Mi aporte (DevOps):**
 - Infraestructura completa en **OCI Free Tier**: VCN, Security List, Internet Gateway, VM Ubuntu, Docker
@@ -55,8 +55,16 @@ Plataforma de personalización 3D (gorras, camisetas, hoodies) con pasarela de p
 
 `OCI` · `Docker Compose` · `GitHub Actions` · `Fastify` · `PostgreSQL` · `ghcr.io`
 
-### 🥇 RossRios — Sitio Corporativo Django
+### 🥈 Pricing Service (Microservicio)
+[![GitHub](https://img.shields.io/badge/Repo-pricing--service-181717?style=flat-square&logo=github)](https://github.com/sergiorivfer/pricing-service)
+
+Microservicio de precios extraído del monolith — Clean Architecture con Fastify 5 + TypeScript. Infraestructura en OCI.
+
+`Fastify` · `TypeScript` · `Clean Architecture` · `Docker` · `OCI`
+
+### 🥈 RossRios — Sitio Corporativo Django
 [![CI/CD](https://github.com/sergiorivfer/rossrios-django/actions/workflows/deploy.yml/badge.svg)](https://github.com/sergiorivfer/rossrios-django/actions)
+[![GitHub](https://img.shields.io/badge/Repo-rossrios--django-181717?style=flat-square&logo=github)](https://github.com/sergiorivfer/rossrios-django)
 
 Migración de WordPress a Django con infraestructura Azure. Terraform para aprovisionamiento de recursos cloud.
 
@@ -68,7 +76,7 @@ Migración de WordPress a Django con infraestructura Azure. Terraform para aprov
 `Terraform` · `Azure` · `Docker` · `GitHub Actions` · `Django` · `PostgreSQL` · `Redis`
 
 ### Open Group
-Landing page institucional y sitio Open Forum 2026. HTML/CSS/JS estático puro, diseño responsivo.
+Landing page institucional y sitio Open Forum 2026. HTML/CSS/JS estático puro.
 
 ---
 
